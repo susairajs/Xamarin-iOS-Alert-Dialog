@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/bin/iPhoneSimulator/Debug/XamariniOSAlert.exe.mdb
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/bin/iPhoneSimulator/Debug/XamariniOSAlert.exe
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/obj/iPhoneSimulator/Debug/XamariniOSAlert.exe
+/Users/DELPIN/Projects/XamariniOSAlert/XamariniOSAlert/obj/iPhoneSimulator/Debug/XamariniOSAlert.exe.mdb
